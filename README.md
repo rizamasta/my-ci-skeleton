@@ -1,13 +1,14 @@
-# Bihunku Front
+# Dashboard Skeleton
 
-Bihunku Front is the source for front end akaraya/bihunku.
+Back-office
 
 
-# Update Note:
+# Note:
 ```sh
-    16 April 2018
-    > Combine HTML with PHP
-    > Initial commit
+    
+    > configure database connection at `application/config/devlopment/database.php`
+    > Start your code inside `application/modules` see examples inside Default folder
+    > To run, please make sure your route has defin inside `application/config/routes.php`
 ```
 
 
